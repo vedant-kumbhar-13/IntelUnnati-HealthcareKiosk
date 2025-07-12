@@ -1,6 +1,6 @@
-# 🏥 Product Category Creation for Healthcare Kiosks in India
+# 🏥 AI-Powered Healthcare Kiosk System
 
-A next-gen AI-powered healthcare kiosk product concept under the Intel Unnati program aimed at enhancing grassroots healthcare delivery through cutting-edge technologies like AI/ML, Federated Learning, Computer Vision, and secure integration with India’s Digital Public Infrastructure (India Stack).
+A next-gen AI-powered healthcare kiosk concept developed under the **Intel Unnati Industrial Training 2025** initiative. The system is designed to enhance grassroots healthcare delivery in India using cutting-edge technologies like AI/ML, Federated Learning, Computer Vision, and secure integration with India’s Digital Public Infrastructure (**India Stack**).
 
 ---
 
@@ -54,4 +54,11 @@ The AI-enhanced healthcare kiosk will support:
 | Federated Learning Support           | 🟡 Proposed    |
 | Research Consent Management          | 🟡 Proposed    |
 
+---
 
+## 👥 Contributors
+
+- **Aniket Pawar** – aniketspawar3031@gmail.com
+- **Anirudhha Pardeshi** – anirudhpardeshi25@gmail.com
+- **Vedant Kumbhar** – vedant.kumbhar@gmail.com
+- **Loukik Ingale** – loukikingale2003@gmail.com
